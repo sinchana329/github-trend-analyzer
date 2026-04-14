@@ -1,0 +1,35 @@
+language,year,predicted_repo_count
+MDX,2025,3.67
+MDX,2026,4.67
+Rust,2025,5.67
+Rust,2026,0.17
+JavaScript,2025,6.0
+JavaScript,2026,3.5
+C++,2025,-4.0
+C++,2026,-9.5
+Dart,2025,5.33
+Dart,2026,5.83
+Vue,2025,1.0
+Vue,2026,0.5
+Jupyter Notebook,2025,23.33
+Jupyter Notebook,2026,24.83
+C,2025,1.0
+C,2026,-1.0
+Swift,2025,0.67
+Swift,2026,-0.83
+TypeScript,2025,82.33
+TypeScript,2026,94.83
+HTML,2025,2.0
+HTML,2026,0.5
+PowerShell,2025,1.0
+PowerShell,2026,1.0
+Kotlin,2025,-1.33
+Kotlin,2026,-4.83
+Go,2025,5.33
+Go,2026,0.83
+Python,2025,139.67
+Python,2026,161.67
+Java,2025,3.67
+Java,2026,3.67
+Shell,2025,10.0
+Shell,2026,12.5

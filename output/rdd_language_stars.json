@@ -1,0 +1,158 @@
+[
+  {
+    "language": "Python",
+    "total_stars": 7932050
+  },
+  {
+    "language": "HTML",
+    "total_stars": 560650
+  },
+  {
+    "language": "Java",
+    "total_stars": 320892
+  },
+  {
+    "language": "TypeScript",
+    "total_stars": 4139546
+  },
+  {
+    "language": "Dart",
+    "total_stars": 295555
+  },
+  {
+    "language": "MDX",
+    "total_stars": 178999
+  },
+  {
+    "language": "Jupyter Notebook",
+    "total_stars": 1512000
+  },
+  {
+    "language": "Go",
+    "total_stars": 1002742
+  },
+  {
+    "language": "Rust",
+    "total_stars": 1154269
+  },
+  {
+    "language": "PowerShell",
+    "total_stars": 81488
+  },
+  {
+    "language": "Zig",
+    "total_stars": 79240
+  },
+  {
+    "language": "C++",
+    "total_stars": 562190
+  },
+  {
+    "language": "JavaScript",
+    "total_stars": 693473
+  },
+  {
+    "language": "Svelte",
+    "total_stars": 63076
+  },
+  {
+    "language": "CSS",
+    "total_stars": 43761
+  },
+  {
+    "language": "Lua",
+    "total_stars": 118960
+  },
+  {
+    "language": "Kotlin",
+    "total_stars": 298748
+  },
+  {
+    "language": "Swift",
+    "total_stars": 155316
+  },
+  {
+    "language": "Text",
+    "total_stars": 21694
+  },
+  {
+    "language": "C",
+    "total_stars": 248935
+  },
+  {
+    "language": "Objective-C",
+    "total_stars": 21201
+  },
+  {
+    "language": "Dockerfile",
+    "total_stars": 42640
+  },
+  {
+    "language": "Cuda",
+    "total_stars": 68395
+  },
+  {
+    "language": "MATLAB",
+    "total_stars": 15293
+  },
+  {
+    "language": "Solidity",
+    "total_stars": 13927
+  },
+  {
+    "language": "QML",
+    "total_stars": 13886
+  },
+  {
+    "language": "SVG",
+    "total_stars": 12046
+  },
+  {
+    "language": "C#",
+    "total_stars": 85229
+  },
+  {
+    "language": "Shell",
+    "total_stars": 274764
+  },
+  {
+    "language": "Elixir",
+    "total_stars": 10066
+  },
+  {
+    "language": "Astro",
+    "total_stars": 9200
+  },
+  {
+    "language": "Vue",
+    "total_stars": 84762
+  },
+  {
+    "language": "Makefile",
+    "total_stars": 8022
+  },
+  {
+    "language": "Scala",
+    "total_stars": 73003
+  },
+  {
+    "language": "Mojo",
+    "total_stars": 25872
+  },
+  {
+    "language": "Ruby",
+    "total_stars": 100457
+  },
+  {
+    "language": "Batchfile",
+    "total_stars": 25906
+  },
+  {
+    "language": "PHP",
+    "total_stars": 32800
+  },
+  {
+    "language": "SystemVerilog",
+    "total_stars": 12182
+  }
+]
